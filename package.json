@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "@dankaist/pwa-test-11",
-  "version": "0.1.37",
+  "name": "@dankaist/pwa-test-12",
+  "version": "0.1.38",
   "repository": "https://github.com/dankaist/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
